@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_1" inkscape:export-filename="nextcloud-icon-1024.png" inkscape:export-xdpi="612.79999" inkscape:export-ydpi="612.79999" inkscape:version="1.0 (4035a4f, 2020-05-01)" sodipodi:docname="nextcloud-icon-round.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 160 160"
+	 style="enable-background:new 0 0 160 160;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#circle1050_1_);}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:7;stroke-miterlimit:10;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" gridtolerance="10" guidetolerance="10" id="namedview16" inkscape:bbox-nodes="true" inkscape:bbox-paths="true" inkscape:current-layer="Layer_1" inkscape:cx="57.814339" inkscape:cy="72.675931" inkscape:document-rotation="0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:snap-page="true" inkscape:window-height="812" inkscape:window-maximized="1" inkscape:window-width="1440" inkscape:window-x="0" inkscape:window-y="23" inkscape:zoom="2.8284271" objecttolerance="10" pagecolor="#ffffff" showgrid="false" units="px">
+	</sodipodi:namedview>
+<linearGradient id="circle1050_1_" gradientUnits="userSpaceOnUse" x1="-64.3716" y1="83.4871" x2="67.3983" y2="233.4871" gradientTransform="matrix(0.9909 0 0 -0.9909 77.9561 237.667)">
+	<stop  offset="0" style="stop-color:#0082C9"/>
+	<stop  offset="1" style="stop-color:#1CAFFF"/>
+</linearGradient>
+<circle id="circle1050" inkscape:export-filename="nextcloud-icon.png" inkscape:export-xdpi="300" inkscape:export-ydpi="300" class="st0" cx="80" cy="80" r="79">
+</circle>
+<path class="st1" d="M99.8,60.4C98.5,45.1,87,33.2,73,34.1c-8.9,0.5-24.2,12.3-24.2,28.9c0,1.7,0.5,4.7,0.5,4.7
+	c-10.2,0.8-19.5,10.6-19.5,22.5c0,12.3,8.5,22.5,18.7,22.5h68.8c7.6,0,13.6-6.4,13.6-14c0-7.2-5.1-13.2-11.5-14l0,0
+	c0-12.3-8.5-23.8-18.7-23.8C100.2,60.4,99.8,60.4,99.8,60.4c-5.5,0.5-10.2,3.4-13.6,8.5"/>
+</svg>

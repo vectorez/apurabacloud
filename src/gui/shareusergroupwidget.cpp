@@ -243,7 +243,7 @@ void ShareUserGroupWidget::slotSharesFetched(const QList<QSharedPointer<Share>> 
         // the owner of the file that shared it first
         // leave out if it's the current user
         if(x == 0 && !share->getUidOwner().isEmpty() && !(share->getUidOwner() == _account->credentials()->user())) {
-            _ui->mainOwnerLabel->setText(QString("Shared with you by ").append(share->getOwnerDisplayName()));
+            _ui->mainOwnerLabel->setText(QString("Archivo compartido por  ").append(share->getOwnerDisplayName()));
         }
 
 

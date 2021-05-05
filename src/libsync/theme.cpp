@@ -466,7 +466,7 @@ QString Theme::about() const
               .arg(QString::fromLatin1(MIRALL_STRINGIFY(MIRALL_VERSION)) + QString(" (%1)").arg(osName))
               .arg(helpUrl());
 
-    devString += tr("<p><small>Using virtual files plugin: %1</small></p>")
+    devString += tr("<p><small>Plugins: %1</small></p>")
                      .arg(Vfs::modeToString(bestAvailableVfsMode()));
 
     return devString;
